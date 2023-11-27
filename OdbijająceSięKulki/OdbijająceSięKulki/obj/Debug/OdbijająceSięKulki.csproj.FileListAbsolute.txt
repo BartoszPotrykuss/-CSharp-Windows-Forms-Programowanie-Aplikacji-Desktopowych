@@ -1,0 +1,10 @@
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\POB\OdbijająceSięKulki\OdbijająceSięKulki\obj\Debug\OdbijająceSięKulki.csproj.AssemblyReference.cache
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\POB\OdbijająceSięKulki\OdbijająceSięKulki\obj\Debug\OdbijająceSięKulki.Properties.Resources.resources
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\POB\OdbijająceSięKulki\OdbijająceSięKulki\obj\Debug\OdbijająceSięKulki.csproj.GenerateResource.cache
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\POB\OdbijająceSięKulki\OdbijająceSięKulki\obj\Debug\OdbijająceSięKulki.csproj.CoreCompileInputs.cache
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\POB\OdbijająceSięKulki\OdbijająceSięKulki\bin\Debug\OdbijająceSięKulki.exe.config
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\POB\OdbijająceSięKulki\OdbijająceSięKulki\bin\Debug\OdbijająceSięKulki.exe
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\POB\OdbijająceSięKulki\OdbijająceSięKulki\bin\Debug\OdbijająceSięKulki.pdb
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\POB\OdbijająceSięKulki\OdbijająceSięKulki\obj\Debug\OdbijająceSięKulki.exe
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\POB\OdbijająceSięKulki\OdbijająceSięKulki\obj\Debug\OdbijająceSięKulki.pdb
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\POB\OdbijająceSięKulki\OdbijająceSięKulki\obj\Debug\BouncingBalls.Form1.resources

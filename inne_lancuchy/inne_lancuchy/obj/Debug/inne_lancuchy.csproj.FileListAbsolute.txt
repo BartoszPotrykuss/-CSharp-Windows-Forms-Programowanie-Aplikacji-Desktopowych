@@ -1,0 +1,11 @@
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\PAD\inne_lancuchy\inne_lancuchy\bin\Debug\inne_lancuchy.exe.config
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\PAD\inne_lancuchy\inne_lancuchy\bin\Debug\inne_lancuchy.exe
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\PAD\inne_lancuchy\inne_lancuchy\bin\Debug\inne_lancuchy.pdb
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\PAD\inne_lancuchy\inne_lancuchy\obj\Debug\inne_lancuchy.csproj.AssemblyReference.cache
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\PAD\inne_lancuchy\inne_lancuchy\obj\Debug\inne_lancuchy.csproj.SuggestedBindingRedirects.cache
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\PAD\inne_lancuchy\inne_lancuchy\obj\Debug\inne_lancuchy.Form1.resources
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\PAD\inne_lancuchy\inne_lancuchy\obj\Debug\inne_lancuchy.Properties.Resources.resources
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\PAD\inne_lancuchy\inne_lancuchy\obj\Debug\inne_lancuchy.csproj.GenerateResource.cache
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\PAD\inne_lancuchy\inne_lancuchy\obj\Debug\inne_lancuchy.csproj.CoreCompileInputs.cache
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\PAD\inne_lancuchy\inne_lancuchy\obj\Debug\inne_lancuchy.exe
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\PAD\inne_lancuchy\inne_lancuchy\obj\Debug\inne_lancuchy.pdb

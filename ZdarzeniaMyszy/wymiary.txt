@@ -1,0 +1,135 @@
+            if (e.X < 125 && e.Y < 125)
+            {
+                label2.Visible = false;
+                label3.Visible = false;
+                label4.Visible = false;
+                label5.Visible = false;
+                label6.Visible = false;
+                label7.Visible = false;
+                label8.Visible = false;
+                label9.Visible = false;
+
+
+                label1.Visible = true;
+                label1.Location = new Point(e.X, e.Y - 20);
+            }
+            else if (e.X > 132 && e.X < 265 && e.Y < 150)
+            {
+                label1.Visible = false;
+                label2.Visible = false;
+                label3.Visible = false;
+                label5.Visible = false;
+                label6.Visible = false;
+                label7.Visible = false;
+                label8.Visible = false;
+                label9.Visible = false;
+
+
+                label4.Visible = true;
+                label4.Location = new Point(e.X, e.Y - 20);
+            }
+            else if (e.X > 264 && e.Y < 150)
+            {
+                label1.Visible = false;
+                label2.Visible = false;
+                label3.Visible = false;
+                label4.Visible = false;
+                label5.Visible = false;
+                label6.Visible = false;
+                label8.Visible = false;
+                label9.Visible = false;
+
+
+                label7.Visible = true;
+                label7.Location = new Point(e.X, e.Y - 20);
+            }
+            else if (e.X < 132 && e.Y > 133 && e.Y < 265)
+            {
+                label1.Visible = false;
+                label3.Visible = false;
+                label4.Visible = false;
+                label5.Visible = false;
+                label6.Visible = false;
+                label7.Visible = false;
+                label8.Visible = false;
+                label9.Visible = false;
+
+
+                label2.Visible = true;
+                label2.Location = new Point(e.X, e.Y - 20);
+            }
+            else if (e.X > 132 && e.X < 265 && e.Y > 133 && e.Y < 265)
+            {
+                label1.Visible = false;
+                label2.Visible = false;
+                label3.Visible = false;
+                label4.Visible = false;
+                label6.Visible = false;
+                label7.Visible = false;
+                label8.Visible = false;
+                label9.Visible = false;
+
+
+                label5.Visible = true;
+                label5.Location = new Point(e.X, e.Y - 20);
+            }
+            else if (e.X > 264 && e.Y > 133 && e.Y < 265)
+            {
+                label1.Visible = false;
+                label2.Visible = false;
+                label3.Visible = false;
+                label4.Visible = false;
+                label5.Visible = false;
+                label6.Visible = false;
+                label7.Visible = false;
+                label9.Visible = false;
+
+
+                label8.Visible = true;
+                label8.Location = new Point(e.X, e.Y - 20);
+            }
+            else if (e.X < 133 && e.Y > 264)
+            {
+                label1.Visible = false;
+                label2.Visible = false;
+                label4.Visible = false;
+                label5.Visible = false;
+                label6.Visible = false;
+                label7.Visible = false;
+                label8.Visible = false;
+                label9.Visible = false;
+
+
+                label3.Visible = true;
+                label3.Location = new Point(e.X, e.Y - 20);
+            }
+            else if (e.X > 132 && e.X < 265 && e.Y > 264)
+            {
+                label1.Visible = false;
+                label2.Visible = false;
+                label3.Visible = false;
+                label4.Visible = false;
+                label5.Visible = false;
+                label7.Visible = false;
+                label8.Visible = false;
+                label9.Visible = false;
+
+
+                label6.Visible = true;
+                label6.Location = new Point(e.X, e.Y - 20);
+            }
+            else if (e.X > 264 && e.X > 264)
+            {
+                label1.Visible = false;
+                label2.Visible = false;
+                label3.Visible = false;
+                label4.Visible = false;
+                label5.Visible = false;
+                label6.Visible = false;
+                label7.Visible = false;
+                label8.Visible = false;
+
+
+                label9.Visible = true;
+                label9.Location = new Point(e.X, e.Y - 20);
+            }

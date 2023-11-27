@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "matematyka w 60s", "matematyka w 60s\matematyka w 60s.csproj", "{8AA6D87E-B613-43D2-A028-59730624EBA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AA6D87E-B613-43D2-A028-59730624EBA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AA6D87E-B613-43D2-A028-59730624EBA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AA6D87E-B613-43D2-A028-59730624EBA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AA6D87E-B613-43D2-A028-59730624EBA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4B0CF81-D58A-407C-943B-260A1CB568D9}
+	EndGlobalSection
+EndGlobal

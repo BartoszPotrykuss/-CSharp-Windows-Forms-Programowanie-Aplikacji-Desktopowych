@@ -1,0 +1,21 @@
+C:\Users\2ft.S236\source\repos\okna dialogowe\okna dialogowe\bin\Debug\okna dialogowe.exe.config
+C:\Users\2ft.S236\source\repos\okna dialogowe\okna dialogowe\bin\Debug\okna dialogowe.exe
+C:\Users\2ft.S236\source\repos\okna dialogowe\okna dialogowe\bin\Debug\okna dialogowe.pdb
+C:\Users\2ft.S236\source\repos\okna dialogowe\okna dialogowe\obj\Debug\okna dialogowe.csproj.AssemblyReference.cache
+C:\Users\2ft.S236\source\repos\okna dialogowe\okna dialogowe\obj\Debug\okna_dialogowe.Form1.resources
+C:\Users\2ft.S236\source\repos\okna dialogowe\okna dialogowe\obj\Debug\okna_dialogowe.Properties.Resources.resources
+C:\Users\2ft.S236\source\repos\okna dialogowe\okna dialogowe\obj\Debug\okna dialogowe.csproj.GenerateResource.cache
+C:\Users\2ft.S236\source\repos\okna dialogowe\okna dialogowe\obj\Debug\okna dialogowe.csproj.CoreCompileInputs.cache
+C:\Users\2ft.S236\source\repos\okna dialogowe\okna dialogowe\obj\Debug\okna dialogowe.exe
+C:\Users\2ft.S236\source\repos\okna dialogowe\okna dialogowe\obj\Debug\okna dialogowe.pdb
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\PAD\okna dialogowe\okna dialogowe\bin\Debug\okna dialogowe.exe.config
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\PAD\okna dialogowe\okna dialogowe\bin\Debug\okna dialogowe.exe
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\PAD\okna dialogowe\okna dialogowe\bin\Debug\okna dialogowe.pdb
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\PAD\okna dialogowe\okna dialogowe\obj\Debug\okna dialogowe.csproj.AssemblyReference.cache
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\PAD\okna dialogowe\okna dialogowe\obj\Debug\okna dialogowe.csproj.SuggestedBindingRedirects.cache
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\PAD\okna dialogowe\okna dialogowe\obj\Debug\okna_dialogowe.Form1.resources
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\PAD\okna dialogowe\okna dialogowe\obj\Debug\okna_dialogowe.Properties.Resources.resources
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\PAD\okna dialogowe\okna dialogowe\obj\Debug\okna dialogowe.csproj.GenerateResource.cache
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\PAD\okna dialogowe\okna dialogowe\obj\Debug\okna dialogowe.csproj.CoreCompileInputs.cache
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\PAD\okna dialogowe\okna dialogowe\obj\Debug\okna dialogowe.exe
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\PAD\okna dialogowe\okna dialogowe\obj\Debug\okna dialogowe.pdb

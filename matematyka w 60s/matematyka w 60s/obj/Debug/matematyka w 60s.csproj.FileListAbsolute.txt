@@ -1,0 +1,32 @@
+E:\programowanie\POB\matematyka w 60s\matematyka w 60s\bin\Debug\matematyka w 60s.exe.config
+E:\programowanie\POB\matematyka w 60s\matematyka w 60s\bin\Debug\matematyka w 60s.exe
+E:\programowanie\POB\matematyka w 60s\matematyka w 60s\bin\Debug\matematyka w 60s.pdb
+E:\programowanie\POB\matematyka w 60s\matematyka w 60s\obj\Debug\matematyka w 60s.csproj.AssemblyReference.cache
+E:\programowanie\POB\matematyka w 60s\matematyka w 60s\obj\Debug\matematyka w 60s.csproj.SuggestedBindingRedirects.cache
+E:\programowanie\POB\matematyka w 60s\matematyka w 60s\obj\Debug\matematyka_w_60s.Form1.resources
+E:\programowanie\POB\matematyka w 60s\matematyka w 60s\obj\Debug\matematyka_w_60s.Properties.Resources.resources
+E:\programowanie\POB\matematyka w 60s\matematyka w 60s\obj\Debug\matematyka w 60s.csproj.GenerateResource.cache
+E:\programowanie\POB\matematyka w 60s\matematyka w 60s\obj\Debug\matematyka w 60s.csproj.CoreCompileInputs.cache
+E:\programowanie\POB\matematyka w 60s\matematyka w 60s\obj\Debug\matematyka w 60s.exe
+E:\programowanie\POB\matematyka w 60s\matematyka w 60s\obj\Debug\matematyka w 60s.pdb
+E:\programowanie\PAD\matematyka w 60s\matematyka w 60s\bin\Debug\matematyka w 60s.exe.config
+E:\programowanie\PAD\matematyka w 60s\matematyka w 60s\bin\Debug\matematyka w 60s.exe
+E:\programowanie\PAD\matematyka w 60s\matematyka w 60s\bin\Debug\matematyka w 60s.pdb
+E:\programowanie\PAD\matematyka w 60s\matematyka w 60s\obj\Debug\matematyka w 60s.csproj.AssemblyReference.cache
+E:\programowanie\PAD\matematyka w 60s\matematyka w 60s\obj\Debug\matematyka w 60s.csproj.SuggestedBindingRedirects.cache
+E:\programowanie\PAD\matematyka w 60s\matematyka w 60s\obj\Debug\matematyka_w_60s.Form1.resources
+E:\programowanie\PAD\matematyka w 60s\matematyka w 60s\obj\Debug\matematyka_w_60s.Properties.Resources.resources
+E:\programowanie\PAD\matematyka w 60s\matematyka w 60s\obj\Debug\matematyka w 60s.csproj.GenerateResource.cache
+E:\programowanie\PAD\matematyka w 60s\matematyka w 60s\obj\Debug\matematyka w 60s.csproj.CoreCompileInputs.cache
+E:\programowanie\PAD\matematyka w 60s\matematyka w 60s\obj\Debug\matematyka w 60s.exe
+E:\programowanie\PAD\matematyka w 60s\matematyka w 60s\obj\Debug\matematyka w 60s.pdb
+C:\Users\bpotr\OneDrive\Pulpit\ultimate programowanie\Programowanie Aplikacji Desktopowych\matematyka w 60s\matematyka w 60s\bin\Debug\matematyka w 60s.exe.config
+C:\Users\bpotr\OneDrive\Pulpit\ultimate programowanie\Programowanie Aplikacji Desktopowych\matematyka w 60s\matematyka w 60s\bin\Debug\matematyka w 60s.exe
+C:\Users\bpotr\OneDrive\Pulpit\ultimate programowanie\Programowanie Aplikacji Desktopowych\matematyka w 60s\matematyka w 60s\bin\Debug\matematyka w 60s.pdb
+C:\Users\bpotr\OneDrive\Pulpit\ultimate programowanie\Programowanie Aplikacji Desktopowych\matematyka w 60s\matematyka w 60s\obj\Debug\matematyka w 60s.csproj.AssemblyReference.cache
+C:\Users\bpotr\OneDrive\Pulpit\ultimate programowanie\Programowanie Aplikacji Desktopowych\matematyka w 60s\matematyka w 60s\obj\Debug\matematyka_w_60s.Form1.resources
+C:\Users\bpotr\OneDrive\Pulpit\ultimate programowanie\Programowanie Aplikacji Desktopowych\matematyka w 60s\matematyka w 60s\obj\Debug\matematyka_w_60s.Properties.Resources.resources
+C:\Users\bpotr\OneDrive\Pulpit\ultimate programowanie\Programowanie Aplikacji Desktopowych\matematyka w 60s\matematyka w 60s\obj\Debug\matematyka w 60s.csproj.GenerateResource.cache
+C:\Users\bpotr\OneDrive\Pulpit\ultimate programowanie\Programowanie Aplikacji Desktopowych\matematyka w 60s\matematyka w 60s\obj\Debug\matematyka w 60s.csproj.CoreCompileInputs.cache
+C:\Users\bpotr\OneDrive\Pulpit\ultimate programowanie\Programowanie Aplikacji Desktopowych\matematyka w 60s\matematyka w 60s\obj\Debug\matematyka w 60s.exe
+C:\Users\bpotr\OneDrive\Pulpit\ultimate programowanie\Programowanie Aplikacji Desktopowych\matematyka w 60s\matematyka w 60s\obj\Debug\matematyka w 60s.pdb

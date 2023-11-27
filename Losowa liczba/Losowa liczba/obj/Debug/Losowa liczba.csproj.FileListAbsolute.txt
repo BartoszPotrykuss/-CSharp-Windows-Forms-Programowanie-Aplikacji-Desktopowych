@@ -1,0 +1,11 @@
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\PAD\Losowa liczba\Losowa liczba\bin\Debug\Losowa liczba.exe.config
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\PAD\Losowa liczba\Losowa liczba\bin\Debug\Losowa liczba.exe
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\PAD\Losowa liczba\Losowa liczba\bin\Debug\Losowa liczba.pdb
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\PAD\Losowa liczba\Losowa liczba\obj\Debug\Losowa liczba.csproj.AssemblyReference.cache
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\PAD\Losowa liczba\Losowa liczba\obj\Debug\Losowa liczba.csproj.SuggestedBindingRedirects.cache
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\PAD\Losowa liczba\Losowa liczba\obj\Debug\Losowa_liczba.Form1.resources
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\PAD\Losowa liczba\Losowa liczba\obj\Debug\Losowa_liczba.Properties.Resources.resources
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\PAD\Losowa liczba\Losowa liczba\obj\Debug\Losowa liczba.csproj.GenerateResource.cache
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\PAD\Losowa liczba\Losowa liczba\obj\Debug\Losowa liczba.csproj.CoreCompileInputs.cache
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\PAD\Losowa liczba\Losowa liczba\obj\Debug\Losowa liczba.exe
+C:\Users\bpotr\OneDrive\Pulpit\programowanie\PAD\Losowa liczba\Losowa liczba\obj\Debug\Losowa liczba.pdb
