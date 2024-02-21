@@ -1,0 +1,12 @@
+C:\Users\2ft\Documents\15.01.24\150124_baza_danych p1\150124_baza_danych p1\bin\Debug\baza_testowa.mdf
+C:\Users\2ft\Documents\15.01.24\150124_baza_danych p1\150124_baza_danych p1\bin\Debug\baza_testowa_log.ldf
+C:\Users\2ft\Documents\15.01.24\150124_baza_danych p1\150124_baza_danych p1\bin\Debug\150124_baza_danych p1.exe.config
+C:\Users\2ft\Documents\15.01.24\150124_baza_danych p1\150124_baza_danych p1\bin\Debug\150124_baza_danych p1.exe
+C:\Users\2ft\Documents\15.01.24\150124_baza_danych p1\150124_baza_danych p1\bin\Debug\150124_baza_danych p1.pdb
+C:\Users\2ft\Documents\15.01.24\150124_baza_danych p1\150124_baza_danych p1\obj\Debug\150124_baza_danych p1.csproj.AssemblyReference.cache
+C:\Users\2ft\Documents\15.01.24\150124_baza_danych p1\150124_baza_danych p1\obj\Debug\_150124_baza_danych_p1.Form1.resources
+C:\Users\2ft\Documents\15.01.24\150124_baza_danych p1\150124_baza_danych p1\obj\Debug\_150124_baza_danych_p1.Properties.Resources.resources
+C:\Users\2ft\Documents\15.01.24\150124_baza_danych p1\150124_baza_danych p1\obj\Debug\150124_baza_danych p1.csproj.GenerateResource.cache
+C:\Users\2ft\Documents\15.01.24\150124_baza_danych p1\150124_baza_danych p1\obj\Debug\150124_baza_danych p1.csproj.CoreCompileInputs.cache
+C:\Users\2ft\Documents\15.01.24\150124_baza_danych p1\150124_baza_danych p1\obj\Debug\150124_baza_danych p1.exe
+C:\Users\2ft\Documents\15.01.24\150124_baza_danych p1\150124_baza_danych p1\obj\Debug\150124_baza_danych p1.pdb
