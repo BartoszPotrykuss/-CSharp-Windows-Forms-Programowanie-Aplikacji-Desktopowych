@@ -1,0 +1,10 @@
+C:\Users\2ft\source\repos\uciekanie przycisku\uciekanie przycisku\bin\Debug\uciekanie przycisku.exe.config
+C:\Users\2ft\source\repos\uciekanie przycisku\uciekanie przycisku\bin\Debug\uciekanie przycisku.exe
+C:\Users\2ft\source\repos\uciekanie przycisku\uciekanie przycisku\bin\Debug\uciekanie przycisku.pdb
+C:\Users\2ft\source\repos\uciekanie przycisku\uciekanie przycisku\obj\Debug\uciekanie przycisku.csproj.AssemblyReference.cache
+C:\Users\2ft\source\repos\uciekanie przycisku\uciekanie przycisku\obj\Debug\uciekanie_przycisku.Form1.resources
+C:\Users\2ft\source\repos\uciekanie przycisku\uciekanie przycisku\obj\Debug\uciekanie_przycisku.Properties.Resources.resources
+C:\Users\2ft\source\repos\uciekanie przycisku\uciekanie przycisku\obj\Debug\uciekanie przycisku.csproj.GenerateResource.cache
+C:\Users\2ft\source\repos\uciekanie przycisku\uciekanie przycisku\obj\Debug\uciekanie przycisku.csproj.CoreCompileInputs.cache
+C:\Users\2ft\source\repos\uciekanie przycisku\uciekanie przycisku\obj\Debug\uciekanie przycisku.exe
+C:\Users\2ft\source\repos\uciekanie przycisku\uciekanie przycisku\obj\Debug\uciekanie przycisku.pdb

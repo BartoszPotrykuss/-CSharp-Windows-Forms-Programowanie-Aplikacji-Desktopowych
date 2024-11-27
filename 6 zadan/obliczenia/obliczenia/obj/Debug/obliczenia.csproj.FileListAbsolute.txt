@@ -1,0 +1,10 @@
+C:\Users\2ft\source\repos\obliczenia\obliczenia\bin\Debug\obliczenia.exe.config
+C:\Users\2ft\source\repos\obliczenia\obliczenia\bin\Debug\obliczenia.exe
+C:\Users\2ft\source\repos\obliczenia\obliczenia\bin\Debug\obliczenia.pdb
+C:\Users\2ft\source\repos\obliczenia\obliczenia\obj\Debug\obliczenia.csproj.AssemblyReference.cache
+C:\Users\2ft\source\repos\obliczenia\obliczenia\obj\Debug\obliczenia.Form1.resources
+C:\Users\2ft\source\repos\obliczenia\obliczenia\obj\Debug\obliczenia.Properties.Resources.resources
+C:\Users\2ft\source\repos\obliczenia\obliczenia\obj\Debug\obliczenia.csproj.GenerateResource.cache
+C:\Users\2ft\source\repos\obliczenia\obliczenia\obj\Debug\obliczenia.csproj.CoreCompileInputs.cache
+C:\Users\2ft\source\repos\obliczenia\obliczenia\obj\Debug\obliczenia.exe
+C:\Users\2ft\source\repos\obliczenia\obliczenia\obj\Debug\obliczenia.pdb

@@ -1,0 +1,10 @@
+C:\Users\2ft\source\repos\zgadnij Liczbe\zgadnij Liczbe\obj\Debug\zgadnij Liczbe.csproj.AssemblyReference.cache
+C:\Users\2ft\source\repos\zgadnij Liczbe\zgadnij Liczbe\obj\Debug\zgadnij_Liczbe.Form1.resources
+C:\Users\2ft\source\repos\zgadnij Liczbe\zgadnij Liczbe\obj\Debug\zgadnij_Liczbe.Properties.Resources.resources
+C:\Users\2ft\source\repos\zgadnij Liczbe\zgadnij Liczbe\obj\Debug\zgadnij Liczbe.csproj.GenerateResource.cache
+C:\Users\2ft\source\repos\zgadnij Liczbe\zgadnij Liczbe\obj\Debug\zgadnij Liczbe.csproj.CoreCompileInputs.cache
+C:\Users\2ft\source\repos\zgadnij Liczbe\zgadnij Liczbe\bin\Debug\zgadnij Liczbe.exe.config
+C:\Users\2ft\source\repos\zgadnij Liczbe\zgadnij Liczbe\bin\Debug\zgadnij Liczbe.exe
+C:\Users\2ft\source\repos\zgadnij Liczbe\zgadnij Liczbe\bin\Debug\zgadnij Liczbe.pdb
+C:\Users\2ft\source\repos\zgadnij Liczbe\zgadnij Liczbe\obj\Debug\zgadnij Liczbe.exe
+C:\Users\2ft\source\repos\zgadnij Liczbe\zgadnij Liczbe\obj\Debug\zgadnij Liczbe.pdb

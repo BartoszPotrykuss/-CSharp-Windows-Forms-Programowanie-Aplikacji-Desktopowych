@@ -1,0 +1,10 @@
+C:\Users\2ft\source\repos\formatowanie tekstu\formatowanie tekstu\bin\Debug\formatowanie tekstu.exe.config
+C:\Users\2ft\source\repos\formatowanie tekstu\formatowanie tekstu\bin\Debug\formatowanie tekstu.exe
+C:\Users\2ft\source\repos\formatowanie tekstu\formatowanie tekstu\bin\Debug\formatowanie tekstu.pdb
+C:\Users\2ft\source\repos\formatowanie tekstu\formatowanie tekstu\obj\Debug\formatowanie tekstu.csproj.AssemblyReference.cache
+C:\Users\2ft\source\repos\formatowanie tekstu\formatowanie tekstu\obj\Debug\formatowanie_tekstu.Form1.resources
+C:\Users\2ft\source\repos\formatowanie tekstu\formatowanie tekstu\obj\Debug\formatowanie_tekstu.Properties.Resources.resources
+C:\Users\2ft\source\repos\formatowanie tekstu\formatowanie tekstu\obj\Debug\formatowanie tekstu.csproj.GenerateResource.cache
+C:\Users\2ft\source\repos\formatowanie tekstu\formatowanie tekstu\obj\Debug\formatowanie tekstu.csproj.CoreCompileInputs.cache
+C:\Users\2ft\source\repos\formatowanie tekstu\formatowanie tekstu\obj\Debug\formatowanie tekstu.exe
+C:\Users\2ft\source\repos\formatowanie tekstu\formatowanie tekstu\obj\Debug\formatowanie tekstu.pdb

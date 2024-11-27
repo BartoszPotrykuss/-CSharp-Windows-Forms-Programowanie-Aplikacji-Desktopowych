@@ -1,0 +1,20 @@
+C:\Users\2ft\source\repos\cwiczenia utrwalajace\cwiczenia utrwalajace\bin\Debug\cwiczenia utrwalajace.exe.config
+C:\Users\2ft\source\repos\cwiczenia utrwalajace\cwiczenia utrwalajace\bin\Debug\cwiczenia utrwalajace.exe
+C:\Users\2ft\source\repos\cwiczenia utrwalajace\cwiczenia utrwalajace\bin\Debug\cwiczenia utrwalajace.pdb
+C:\Users\2ft\source\repos\cwiczenia utrwalajace\cwiczenia utrwalajace\obj\Debug\cwiczenia utrwalajace.csproj.AssemblyReference.cache
+C:\Users\2ft\source\repos\cwiczenia utrwalajace\cwiczenia utrwalajace\obj\Debug\cwiczenia_utrwalajace.Form1.resources
+C:\Users\2ft\source\repos\cwiczenia utrwalajace\cwiczenia utrwalajace\obj\Debug\cwiczenia_utrwalajace.Properties.Resources.resources
+C:\Users\2ft\source\repos\cwiczenia utrwalajace\cwiczenia utrwalajace\obj\Debug\cwiczenia utrwalajace.csproj.GenerateResource.cache
+C:\Users\2ft\source\repos\cwiczenia utrwalajace\cwiczenia utrwalajace\obj\Debug\cwiczenia utrwalajace.csproj.CoreCompileInputs.cache
+C:\Users\2ft\source\repos\cwiczenia utrwalajace\cwiczenia utrwalajace\obj\Debug\cwiczenia utrwalajace.exe
+C:\Users\2ft\source\repos\cwiczenia utrwalajace\cwiczenia utrwalajace\obj\Debug\cwiczenia utrwalajace.pdb
+E:\Programowanie aplikacji desktopowych\cwiczenia utrwalajace\cwiczenia utrwalajace\bin\Debug\cwiczenia utrwalajace.exe.config
+E:\Programowanie aplikacji desktopowych\cwiczenia utrwalajace\cwiczenia utrwalajace\bin\Debug\cwiczenia utrwalajace.exe
+E:\Programowanie aplikacji desktopowych\cwiczenia utrwalajace\cwiczenia utrwalajace\bin\Debug\cwiczenia utrwalajace.pdb
+E:\Programowanie aplikacji desktopowych\cwiczenia utrwalajace\cwiczenia utrwalajace\obj\Debug\cwiczenia utrwalajace.csproj.AssemblyReference.cache
+E:\Programowanie aplikacji desktopowych\cwiczenia utrwalajace\cwiczenia utrwalajace\obj\Debug\cwiczenia_utrwalajace.Form1.resources
+E:\Programowanie aplikacji desktopowych\cwiczenia utrwalajace\cwiczenia utrwalajace\obj\Debug\cwiczenia_utrwalajace.Properties.Resources.resources
+E:\Programowanie aplikacji desktopowych\cwiczenia utrwalajace\cwiczenia utrwalajace\obj\Debug\cwiczenia utrwalajace.csproj.GenerateResource.cache
+E:\Programowanie aplikacji desktopowych\cwiczenia utrwalajace\cwiczenia utrwalajace\obj\Debug\cwiczenia utrwalajace.csproj.CoreCompileInputs.cache
+E:\Programowanie aplikacji desktopowych\cwiczenia utrwalajace\cwiczenia utrwalajace\obj\Debug\cwiczenia utrwalajace.exe
+E:\Programowanie aplikacji desktopowych\cwiczenia utrwalajace\cwiczenia utrwalajace\obj\Debug\cwiczenia utrwalajace.pdb

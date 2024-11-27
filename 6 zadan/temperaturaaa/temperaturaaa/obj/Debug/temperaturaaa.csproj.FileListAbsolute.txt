@@ -1,0 +1,10 @@
+C:\Users\2ft\source\repos\temperaturaaa\temperaturaaa\bin\Debug\temperaturaaa.exe.config
+C:\Users\2ft\source\repos\temperaturaaa\temperaturaaa\bin\Debug\temperaturaaa.exe
+C:\Users\2ft\source\repos\temperaturaaa\temperaturaaa\bin\Debug\temperaturaaa.pdb
+C:\Users\2ft\source\repos\temperaturaaa\temperaturaaa\obj\Debug\temperaturaaa.csproj.AssemblyReference.cache
+C:\Users\2ft\source\repos\temperaturaaa\temperaturaaa\obj\Debug\temperaturaaa.Form1.resources
+C:\Users\2ft\source\repos\temperaturaaa\temperaturaaa\obj\Debug\temperaturaaa.Properties.Resources.resources
+C:\Users\2ft\source\repos\temperaturaaa\temperaturaaa\obj\Debug\temperaturaaa.csproj.GenerateResource.cache
+C:\Users\2ft\source\repos\temperaturaaa\temperaturaaa\obj\Debug\temperaturaaa.csproj.CoreCompileInputs.cache
+C:\Users\2ft\source\repos\temperaturaaa\temperaturaaa\obj\Debug\temperaturaaa.exe
+C:\Users\2ft\source\repos\temperaturaaa\temperaturaaa\obj\Debug\temperaturaaa.pdb
